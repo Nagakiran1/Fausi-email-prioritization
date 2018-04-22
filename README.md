@@ -1,5 +1,7 @@
 # Review_Text_Classification
 Objective :
+
+
          1) Classifying the Reviews based sentiment analysis on words of each Review.   
          2) Detecting the Root Cause of frequent malfunctioning products and assigning the frequency of occurances.
         
